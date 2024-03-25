@@ -1,2 +1,2 @@
 # Personal_Finance_Advisor
-A small collection of code to track personal financial progress
+This repo contains a small collection of code to track personal financial progress. The majority of the code (e.g. function definitions, explanations) are contained in the helpers python file. The notebook contains an example of how to use them to actually track one's savings progress, with ultimate output explaining how much money one can expect to have at a user-defined level of current savings, recurring annual savings, timeframe, tax bracket and expected average annual growth. There are default values for these inputs as well, with explanations for them included in the notebook. 
